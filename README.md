@@ -19,3 +19,4 @@ I am a :apple: Teacher by day, :mortar_board: Grad student by night. Some of the
 - :smirk: Java, HTML/CSS, Javascript
 - :confused: Python
 
+Visit my teacher profile at [github.com/jillianmaher](https://github.com/jillianmaher) for projects I have incorporated with students. 
