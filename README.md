@@ -16,7 +16,7 @@ Just a little about who I am and how I lose track of time.
 
 ## What I Am Learning
 I am a :apple: Teacher by day, :mortar_board: Grad student by night. Some of the languages I play with
-- :smirk: Java, HTML/CSS, Javascript
-- :confused: Python
+- :heart_eyes: Java, HTML/CSS, Javascript
+- :smirk: Python
 
 Visit my teacher profile at [github.com/jillianmaher](https://github.com/jillianmaher) for projects I have incorporated with students. 
