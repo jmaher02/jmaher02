@@ -15,8 +15,8 @@ Just a little about who I am and how I lose track of time.
 - :video_game: Console Gaming | Minecraft, Animal Crossing
 
 ## What I Am Learning
-I am a :apple: Teacher by day, :mortar_board: Grad student by night. Some of the languages I play with:
+Some of the languages I play with:
 - :heart_eyes: Java, HTML/CSS, Javascript
 - :smirk: Python
 
-Visit my teacher profile at [github.com/jillianmaher](https://github.com/jillianmaher) for projects I have incorporated with students. 
+Visit my alternative profile at [github.com/jillianmaher](https://github.com/jillianmaher) for projects I have incorporated with high school students. 
